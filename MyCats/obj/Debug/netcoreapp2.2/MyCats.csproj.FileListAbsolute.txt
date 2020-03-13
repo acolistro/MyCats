@@ -22,3 +22,4 @@ C:\Users\ThinkPad\desktop\MyCats.Solution\MyCats\obj\Debug\netcoreapp2.2\MyCats.
 C:\Users\ThinkPad\desktop\MyCats.Solution\MyCats\obj\Debug\netcoreapp2.2\MyCats.dll
 C:\Users\ThinkPad\desktop\MyCats.Solution\MyCats\obj\Debug\netcoreapp2.2\MyCats.pdb
 C:\Users\ThinkPad\desktop\MyCats.Solution\MyCats\obj\Debug\netcoreapp2.2\MyCats.csproj.CopyComplete
+C:\Users\ThinkPad\desktop\MyCats.Solution\MyCats\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Footer.g.cshtml.cs
